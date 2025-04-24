@@ -1,0 +1,8 @@
+Configuration parameters for SSAS
+
+https://learn.microsoft.com/en-us/analysis-services/server-properties/general-properties?view=asallproducts-allversions
+
+ServerTimeout, ForceCommitTimeout, CommitTimeout, ExternalCommandTimeout, CoordinatorExecutionMode
+
+
+
